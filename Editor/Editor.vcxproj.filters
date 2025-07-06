@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00.MainGame">
+      <UniqueIdentifier>{5f7e0c22-6567-4c35-a82f-7fea79842d42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj">
+      <UniqueIdentifier>{f410305d-b9d3-4197-b3b1-7e6065241494}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design">
+      <UniqueIdentifier>{d0794b1f-e8b8-47da-91bc-89034ac1d0a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Component">
+      <UniqueIdentifier>{b0312c0f-6e4b-454c-b44c-6fb1cddab3bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\KeyMgr">
+      <UniqueIdentifier>{85bf575c-1c81-41d9-b687-d81f3930c9c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Component\Collider">
+      <UniqueIdentifier>{b004ae55-e582-45b5-b571-e32522eba9e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\BmpMgr">
+      <UniqueIdentifier>{26fca0eb-0ee9-4c5d-a208-be4d023e9f60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\BmpMgr\MyBmp">
+      <UniqueIdentifier>{9ce54c36-4ec6-462c-a1f2-722382896d68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\ScrollMgr">
+      <UniqueIdentifier>{6845ed86-71b0-4863-b586-ae451d2459b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\TimeMgr">
+      <UniqueIdentifier>{f18e56a6-8f9f-4e60-9936-9af15231ef79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\CStageMgr">
+      <UniqueIdentifier>{30ee679d-ea9c-459e-bbde-52251bcd1a01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.Stage">
+      <UniqueIdentifier>{5d493f00-8b51-448f-b1d1-ca2dfc25c25c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.Stage\CStage1">
+      <UniqueIdentifier>{75c5626f-b1f2-48d2-8e12-0a0409e20c9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\GroundMgr">
+      <UniqueIdentifier>{25b242b0-fef4-4808-8f92-429928d4e082}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Ground">
+      <UniqueIdentifier>{2e6d6a8e-9a66-4466-962a-e952a23f936b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\TileMgr">
+      <UniqueIdentifier>{c02a915d-542f-44c0-a7b1-8463d386cfd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\01.Tile">
+      <UniqueIdentifier>{3852baac-7a3e-4cd4-bc8c-e692199bd509}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\InteractableManager">
+      <UniqueIdentifier>{9bd01283-75c1-4175-9b7d-db63af489871}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\02.Interactable">
+      <UniqueIdentifier>{1d8cf9c5-bcfa-40a7-a2aa-7cb61d10effb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Component\Collider\CStage2">
+      <UniqueIdentifier>{c523d271-96fb-46f5-a57f-3bcb09663be3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="02.Design\KeyMgr\LineMgr">
+      <UniqueIdentifier>{de6e7b83-5450-43f3-80dd-02e2a1eec5fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Design\KeyMgr\LineMgr\Line">
+      <UniqueIdentifier>{a14025c6-7b52-4cf5-b24a-9795ec7ca95f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\02.Interactable\00.Chest">
+      <UniqueIdentifier>{16382e3e-e8e3-4188-948a-49aaf9623c77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\02.Interactable\01.Crystal">
+      <UniqueIdentifier>{be2e6ade-fd92-4e32-a5ac-30c9f97679c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\02.Interactable\02.JumpPad">
+      <UniqueIdentifier>{ef363b50-3c73-4a0c-af7e-e7b9c3649104}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\02.Interactable\0.Elevator">
+      <UniqueIdentifier>{5489ba4a-7eab-434e-92d5-59fe5afcecf0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Editor.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CMainGame.h">
+      <Filter>00.MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="CObj.h">
+      <Filter>01.Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="CLine.h">
+      <Filter>02.Design\KeyMgr\LineMgr\Line</Filter>
+    </ClInclude>
+    <ClInclude Include="CKeyMgr.h">
+      <Filter>02.Design\KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CColider.h">
+      <Filter>03.Component\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyBmp.h">
+      <Filter>02.Design\BmpMgr\MyBmp</Filter>
+    </ClInclude>
+    <ClInclude Include="CBmpMgr.h">
+      <Filter>02.Design\BmpMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CScrollMgr.h">
+      <Filter>02.Design\ScrollMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CTimeManager.h">
+      <Filter>02.Design\TimeMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CStageManager.h">
+      <Filter>02.Design\CStageMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage1.h">
+      <Filter>04.Stage\CStage1</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage2.h">
+      <Filter>03.Component\Collider\CStage2</Filter>
+    </ClInclude>
+    <ClInclude Include="CGround.h">
+      <Filter>01.Obj\00.Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="CLineMgr.h">
+      <Filter>02.Design\KeyMgr\LineMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CTile.h">
+      <Filter>01.Obj\01.Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="CTileMgr.h">
+      <Filter>02.Design\TileMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CInteractableMgr.h">
+      <Filter>02.Design\InteractableManager</Filter>
+    </ClInclude>
+    <ClInclude Include="CInteractable.h">
+      <Filter>01.Obj\02.Interactable</Filter>
+    </ClInclude>
+    <ClInclude Include="CGroundMgr.h">
+      <Filter>02.Design\GroundMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CChest.h">
+      <Filter>01.Obj\02.Interactable\00.Chest</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage.h">
+      <Filter>04.Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="CCrystal.h">
+      <Filter>01.Obj\02.Interactable\01.Crystal</Filter>
+    </ClInclude>
+    <ClInclude Include="CJumpPad.h">
+      <Filter>01.Obj\02.Interactable\02.JumpPad</Filter>
+    </ClInclude>
+    <ClInclude Include="CElevator.h">
+      <Filter>01.Obj\02.Interactable\0.Elevator</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Editor.cpp">
+      <Filter>리소스 파일\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>리소스 파일\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CMainGame.cpp">
+      <Filter>00.MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="CObj.cpp">
+      <Filter>01.Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="CLine.cpp">
+      <Filter>02.Design\KeyMgr\LineMgr\Line</Filter>
+    </ClCompile>
+    <ClCompile Include="CKeyMgr.cpp">
+      <Filter>02.Design\KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CColider.cpp">
+      <Filter>03.Component\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyBmp.cpp">
+      <Filter>02.Design\BmpMgr\MyBmp</Filter>
+    </ClCompile>
+    <ClCompile Include="CBmpMgr.cpp">
+      <Filter>02.Design\BmpMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CScrollMgr.cpp">
+      <Filter>02.Design\ScrollMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CTimeManager.cpp">
+      <Filter>02.Design\TimeMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CStageManager.cpp">
+      <Filter>02.Design\CStageMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage1.cpp">
+      <Filter>04.Stage\CStage1</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage2.cpp">
+      <Filter>03.Component\Collider\CStage2</Filter>
+    </ClCompile>
+    <ClCompile Include="CGround.cpp">
+      <Filter>01.Obj\00.Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="CGroundMgr.cpp">
+      <Filter>02.Design\GroundMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CLineMgr.cpp">
+      <Filter>02.Design\KeyMgr\LineMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CTile.cpp">
+      <Filter>01.Obj\01.Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="CTileMgr.cpp">
+      <Filter>02.Design\TileMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage.cpp">
+      <Filter>03.Component\Collider\CStage2</Filter>
+    </ClCompile>
+    <ClCompile Include="CInteractableMgr.cpp">
+      <Filter>02.Design\InteractableManager</Filter>
+    </ClCompile>
+    <ClCompile Include="CInteractable.cpp">
+      <Filter>01.Obj\02.Interactable</Filter>
+    </ClCompile>
+    <ClCompile Include="CChest.cpp">
+      <Filter>01.Obj\02.Interactable\00.Chest</Filter>
+    </ClCompile>
+    <ClCompile Include="CCrystal.cpp">
+      <Filter>01.Obj\02.Interactable\01.Crystal</Filter>
+    </ClCompile>
+    <ClCompile Include="CJumpPad.cpp">
+      <Filter>01.Obj\02.Interactable\02.JumpPad</Filter>
+    </ClCompile>
+    <ClCompile Include="CElevator.cpp">
+      <Filter>01.Obj\02.Interactable\0.Elevator</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Editor.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Editor.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
