@@ -1,0 +1,116 @@
+Player
+
+
+
+크기 48*48
+
+Attack 1:
+	posX = 1
+	posY=75
+
+
+Attack 2:
+	posX=1
+	posY = 138
+
+
+Attack 3:
+	posX=1
+	posY=201
+
+Air Attack:
+	posX=1
+	posY=265
+
+
+
+
+Leaf1 :
+	posX=1
+	posY=390
+
+
+Leaf2 :
+	posX=1
+	posY=453
+
+
+Leaf3
+	posX=1
+	posY=516
+
+airLeaf
+	posX=1
+	posY=579
+
+Bow(그냥 서서 쏘기)
+	posX=1
+	posY=650
+
+
+Air Bow(점프 하고 쏘기)
+	posX=1
+	posY=713
+
+
+Crouch bow (앉아서 쏘기)
+	posX=1
+	posY=776
+
+
+
+Run(달리기)
+	posX=1
+	poY=844
+
+
+Brake
+	posX=1
+	poY=907
+
+
+crouch(숙이기)(
+	posX=1
+	posY=1032
+
+
+Death
+	posX=1
+	posY=1158
+
+
+Jump
+	posX=1
+	posY=1694
+
+Fall	
+	posX=1
+	posY=1757
+
+
+Hit
+	posX=1
+	posY=2135
+
+
+Idle	
+	posX=1
+	posY=2198
+
+Item사용
+	posX=1
+	posY=2548
+
+
+Ladder up (사다리타고 위로올라감)
+	posX=1
+	posY=2800
+
+
+Ladder Down
+	posx=1
+	posY=2863
+
+구르기
+	posX=1	
+	posY=3536
