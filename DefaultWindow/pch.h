@@ -31,9 +31,7 @@
 
 #include "fmod.h"
 #include "fmod.hpp"
-#pragma comment(lib, "fmodex_vc.lib")
 #pragma comment(lib, "fmodL_vc.lib")
-#pragma commnet(lib, "fmod_vc.lib")
 
 #include <Windows.h>
 #include <gdiplus.h>
